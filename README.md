@@ -11,7 +11,9 @@
 * git commit -m "first commit"
 * git push origin main
 
-**** bash
+**** 
+bash
+****
 conda create -m env python=3.8 -y
 ****
 conda activate env/
